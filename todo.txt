@@ -1,0 +1,18 @@
+dataframe shuffling 
+feature importance bar graph
+
+
+tag weight 
+gunning fog index
+code/text ratio
+features(count of answered questions etc) using web scraping
+
+Principal component analysis
+
+
+NN
+
+normalization in logistic regression
+k-fold CV
+Ridge/Lasso regularization
+Grid Search CV
